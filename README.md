@@ -1,4 +1,4 @@
-# Mini-Python-Compiler
+Python-Compiler
 
 ## Details
 + **Project Title:** Python Compiler (constructs: 'if-else', 'while')<br /> 
