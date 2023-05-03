@@ -1,3 +1,5 @@
+# Compiler Design Mini Project 18CSC304J 
+
 ## Python-Compiler
 
 ## Details
@@ -5,8 +7,9 @@
 	       - Using C language till Optimisation of Intermediate Code.<br />
 	       - Using Python Language for Target Code Generation.
 + **Team Members:**
-   1) Aditya Giri Goswami
-   2) Divyansh Gupta
+   1) Rishabh Singh Sahil RA2011003011334
+   2) Abhishek Verma RA2011003011341
+   3) Nikhil Kar RA2011003011346
    
 + **Project Abstract:** The Mini-Compiler, contains all phases of compiler has been made for the language Python by using C language (till intermediate code optimisation phase) and we used Python language itself for target code generation as well . The constructs that have been focused on are ‘if-else’ and ‘while’ statements. The optimizations handled for the intermediate code are ‘packing temporaries’ and ‘constant propagation’. Syntax and semantic errors have been handled and syntax error recovery has been implemented using Panic Mode Recovery in the lexer.
 + **Code Execution :**
